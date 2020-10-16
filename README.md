@@ -7,6 +7,7 @@ Desciption-
 - In order to resolve collisions in hash table, 2 separate collision resolution techniques have been implemented through 2 separate classes-
 
 (i) Open Addressing through Double Hashing
+
 (ii) Separate Chaining
 
 - Both the classes can initialize/create a hash table, insert a phone number in the the hash table, search for a phone number and display it and delete a phone number entry from the table.
